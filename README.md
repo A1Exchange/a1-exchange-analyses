@@ -5,7 +5,7 @@ Public repository of A1 Exchange Analyses.
 
 Older versions of our analyses could be discovered using "History" tab when analysis files are selected.
 
-# License
+## Creative Commons License
 
 A1 Exchange Analyses © 2019 by A1 Exchange
 
